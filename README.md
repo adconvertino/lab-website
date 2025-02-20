@@ -5,6 +5,6 @@
 
   # adconvertino's Website
 
-  Visit **[adconvertino.github.io/lab-website](https://adconvertino.github.io/lab-website)** 🚀
+  Visit **[adconvertino.github.io/stress-lab.github.io](https://adconvertino.github.io/stress-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
